@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: norobots
 title: Kollection
 ---
 # Terms Of Service

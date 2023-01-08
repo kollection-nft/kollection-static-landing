@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kollection
+title: Kollection Digital Collectible NFT Marketplace on Koinos
 ---
 
 <center>
