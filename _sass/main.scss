@@ -1,0 +1,93 @@
+.default {
+    background-color: black;
+    color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.heading-text {
+    background-color: black;
+    color: white;
+    font-size: 60px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.mission-text {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.coming-soon-text {
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.powered-by-text {
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.powered-by-box {
+    border-radius: 20px;
+    background: white;
+    color: black;
+    padding: 10px;
+    width: 150px;
+    height: 50px;
+}
+
+.navbarbottom {
+    background-color: black;
+    color: white;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.nav {
+    background-color: black;
+    color: white;
+    font-size: 10px;
+}
+
+a.nav:link { 
+    color: yellow
+}
+a.nav:visited {
+    color: yellow
+}
+a.nav:hover {
+    color: yellow
+}
+a.nav:active {
+    color: yellow
+}
+
+.yellow-link {
+    background-color: black;
+    color: white;
+}
+
+a.yellow-link:link {
+    color: yellow
+}
+
+a.yellow-link:visited {
+    color: yellow
+}
+
+a.yellow-link:hover {
+    color: yellow
+}
+
+a.yellow-link:active {
+    color: yellow
+}
