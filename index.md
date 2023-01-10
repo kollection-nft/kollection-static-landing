@@ -12,7 +12,7 @@ title: Kollection Digital Collectible Marketplace
 <span>
 <a target="_blank" href="https://twitter.com/KollectionMkt"><img alt="twitter" style="width:50px;" src="/assets/images/twitter.png"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://discord.gg/5rmHvzEyT8"><img alt="discord" style="width:50px;" src="/assets/images/discord.png" /></a>
+<a target="_blank" href="https://discord.gg/zGnZ5J4sp3"><img alt="discord" style="width:50px;" src="/assets/images/discord.png" /></a>
 </span>
 <br><br>
 <div class="powered-by-box">
